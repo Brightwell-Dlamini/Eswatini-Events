@@ -1,0 +1,83 @@
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"631484a4-f911-4820-88f2-3007559273df","timestamp":"2025-07-03 21:29:42"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"e223da25-17b7-4d79-b213-7ee784d30749","timestamp":"2025-07-03 21:29:42"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 21:29:42"}
+{"duration":"712ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"631484a4-f911-4820-88f2-3007559273df","status":200,"timestamp":"2025-07-03 21:29:42"}
+{"duration":"712ms","level":"info","message":"Request completed","method":"POST","path":"/login","requestId":"e223da25-17b7-4d79-b213-7ee784d30749","status":200,"timestamp":"2025-07-03 21:29:42"}
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"c6bb7aa6-d59a-48fd-bddf-bc092d10c28a","timestamp":"2025-07-03 21:30:04"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"9d7f9c1b-48d6-45a3-af0b-db8e8fa8cd4f","timestamp":"2025-07-03 21:30:04"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 21:30:04"}
+{"duration":"508ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"c6bb7aa6-d59a-48fd-bddf-bc092d10c28a","status":200,"timestamp":"2025-07-03 21:30:04"}
+{"duration":"508ms","level":"info","message":"Request completed","method":"POST","path":"/login","requestId":"9d7f9c1b-48d6-45a3-af0b-db8e8fa8cd4f","status":200,"timestamp":"2025-07-03 21:30:04"}
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"95531470-3dae-4f15-a9c5-c1ec11d971b7","timestamp":"2025-07-03 21:30:14"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"2ec6302f-4385-4705-84b0-393f859bd2a8","timestamp":"2025-07-03 21:30:14"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 21:30:14"}
+{"duration":"529ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"95531470-3dae-4f15-a9c5-c1ec11d971b7","status":200,"timestamp":"2025-07-03 21:30:15"}
+{"duration":"529ms","level":"info","message":"Request completed","method":"POST","path":"/login","requestId":"2ec6302f-4385-4705-84b0-393f859bd2a8","status":200,"timestamp":"2025-07-03 21:30:15"}
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/refresh","requestId":"7b8378b4-24c9-40ab-9125-24976a7552e8","timestamp":"2025-07-03 21:31:43"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/refresh","requestId":"1ea23606-ef91-4c05-b29f-b9d2eb223c3c","timestamp":"2025-07-03 21:31:43"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 21:31:43"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 21:31:43"}
+{"duration":"11ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/refresh","requestId":"7b8378b4-24c9-40ab-9125-24976a7552e8","status":500,"timestamp":"2025-07-03 21:31:43"}
+{"duration":"11ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/refresh","requestId":"1ea23606-ef91-4c05-b29f-b9d2eb223c3c","status":500,"timestamp":"2025-07-03 21:31:43"}
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"1cce5254-27d7-4089-8b46-d59d6bc43d33","timestamp":"2025-07-03 21:36:38"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"0823334b-661f-406d-b58f-54f9eda14dd7","timestamp":"2025-07-03 21:36:38"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 21:36:38"}
+{"duration":"521ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"1cce5254-27d7-4089-8b46-d59d6bc43d33","status":200,"timestamp":"2025-07-03 21:36:39"}
+{"duration":"521ms","level":"info","message":"Request completed","method":"POST","path":"/login","requestId":"0823334b-661f-406d-b58f-54f9eda14dd7","status":200,"timestamp":"2025-07-03 21:36:39"}
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"ca377955-973c-4817-9e49-44f947365d0c","timestamp":"2025-07-03 21:36:42"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"0cb21a43-8c4d-4cd8-8fe4-c994c31c1325","timestamp":"2025-07-03 21:36:42"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 21:36:42"}
+{"duration":"532ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"ca377955-973c-4817-9e49-44f947365d0c","status":200,"timestamp":"2025-07-03 21:36:43"}
+{"duration":"532ms","level":"info","message":"Request completed","method":"POST","path":"/login","requestId":"0cb21a43-8c4d-4cd8-8fe4-c994c31c1325","status":200,"timestamp":"2025-07-03 21:36:43"}
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"1f4206b0-5bfe-45f4-a67c-4e99840128f0","timestamp":"2025-07-03 21:36:48"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"689cf9d4-eb55-4d20-853f-7e87d354a4f2","timestamp":"2025-07-03 21:36:48"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 21:36:48"}
+{"duration":"525ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"1f4206b0-5bfe-45f4-a67c-4e99840128f0","status":200,"timestamp":"2025-07-03 21:36:49"}
+{"duration":"524ms","level":"info","message":"Request completed","method":"POST","path":"/login","requestId":"689cf9d4-eb55-4d20-853f-7e87d354a4f2","status":200,"timestamp":"2025-07-03 21:36:49"}
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"173026df-fe63-46ba-8861-dc54f24f45d4","timestamp":"2025-07-03 21:36:50"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"35c58ad0-21c1-4219-afd2-b335447c3c26","timestamp":"2025-07-03 21:36:50"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 21:36:50"}
+{"duration":"517ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"173026df-fe63-46ba-8861-dc54f24f45d4","status":200,"timestamp":"2025-07-03 21:36:50"}
+{"duration":"515ms","level":"info","message":"Request completed","method":"POST","path":"/login","requestId":"35c58ad0-21c1-4219-afd2-b335447c3c26","status":200,"timestamp":"2025-07-03 21:36:50"}
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"088ed948-03c1-4700-ba79-044dff574df6","timestamp":"2025-07-03 21:37:14"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"671deb8e-d3d5-4d76-9947-c186a481cf53","timestamp":"2025-07-03 21:37:14"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 21:37:14"}
+{"duration":"538ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"088ed948-03c1-4700-ba79-044dff574df6","status":200,"timestamp":"2025-07-03 21:37:15"}
+{"duration":"538ms","level":"info","message":"Request completed","method":"POST","path":"/login","requestId":"671deb8e-d3d5-4d76-9947-c186a481cf53","status":200,"timestamp":"2025-07-03 21:37:15"}
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"2ce80c80-a863-44d6-8164-82eb28a5cb70","timestamp":"2025-07-03 21:37:16"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"9a09eb9f-4861-4928-b3ae-abc1e5fa0de2","timestamp":"2025-07-03 21:37:16"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 21:37:16"}
+{"duration":"559ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"2ce80c80-a863-44d6-8164-82eb28a5cb70","status":200,"timestamp":"2025-07-03 21:37:17"}
+{"duration":"558ms","level":"info","message":"Request completed","method":"POST","path":"/login","requestId":"9a09eb9f-4861-4928-b3ae-abc1e5fa0de2","status":200,"timestamp":"2025-07-03 21:37:17"}
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"3ae97099-1045-4a90-a28a-bf570fb96516","timestamp":"2025-07-03 21:37:26"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"b0881c71-99e5-4f0e-a900-718e1088a9c1","timestamp":"2025-07-03 21:37:26"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 21:37:26"}
+{"duration":"510ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"3ae97099-1045-4a90-a28a-bf570fb96516","status":200,"timestamp":"2025-07-03 21:37:26"}
+{"duration":"510ms","level":"info","message":"Request completed","method":"POST","path":"/login","requestId":"b0881c71-99e5-4f0e-a900-718e1088a9c1","status":200,"timestamp":"2025-07-03 21:37:26"}
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"9a9f8d3b-4985-43d7-835e-acf6f8327865","timestamp":"2025-07-03 21:37:27"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"5ddf6c9a-107a-41e3-850f-988e37210d74","timestamp":"2025-07-03 21:37:27"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 21:37:27"}
+{"level":"warn","message":"⚠️ Operational Error: Too many login attempts, please try again in 15 minutes","timestamp":"2025-07-03 21:37:27"}
+{"duration":"5ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"9a9f8d3b-4985-43d7-835e-acf6f8327865","status":429,"timestamp":"2025-07-03 21:37:27"}
+{"duration":"5ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"5ddf6c9a-107a-41e3-850f-988e37210d74","status":429,"timestamp":"2025-07-03 21:37:27"}
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"f2dc4d06-f3e7-4252-a977-a7e2160ded19","timestamp":"2025-07-03 21:37:28"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"68a1beb4-f198-4733-b3da-c18272361423","timestamp":"2025-07-03 21:37:28"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 21:37:28"}
+{"level":"warn","message":"⚠️ Operational Error: Too many login attempts, please try again in 15 minutes","timestamp":"2025-07-03 21:37:28"}
+{"duration":"6ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"f2dc4d06-f3e7-4252-a977-a7e2160ded19","status":429,"timestamp":"2025-07-03 21:37:28"}
+{"duration":"6ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"68a1beb4-f198-4733-b3da-c18272361423","status":429,"timestamp":"2025-07-03 21:37:28"}
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"427522c2-c489-4c1b-bd40-bb098f77d550","timestamp":"2025-07-03 21:37:28"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"776f8397-6ff6-46b0-bb76-c65c88e74f66","timestamp":"2025-07-03 21:37:28"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 21:37:28"}
+{"level":"warn","message":"⚠️ Operational Error: Too many login attempts, please try again in 15 minutes","timestamp":"2025-07-03 21:37:28"}
+{"duration":"4ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"427522c2-c489-4c1b-bd40-bb098f77d550","status":429,"timestamp":"2025-07-03 21:37:28"}
+{"duration":"4ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"776f8397-6ff6-46b0-bb76-c65c88e74f66","status":429,"timestamp":"2025-07-03 21:37:28"}
+{"level":"info","message":"Shutting down server...","timestamp":"2025-07-03 22:00:11"}
+{"level":"info","message":"Server running in development npm test tests/rateLimit.test.js mode on port 5000","timestamp":"2025-07-03 22:00:15"}
+{"level":"info","message":"Mongoose connected to DB","timestamp":"2025-07-03 22:00:15"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-07-03 22:00:15"}
+{"level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"88f70446-4e43-4f33-be87-d20166690390","timestamp":"2025-07-03 22:00:57"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"Request started","method":"POST","path":"/api/auth/login","requestId":"382dfe10-9e7a-4739-b760-2933762c6b92","timestamp":"2025-07-03 22:00:57"}
+{"level":"info","message":"undefined undefined","timestamp":"2025-07-03 22:00:57"}
+{"duration":"564ms","level":"info","message":"Request completed","method":"POST","path":"/api/auth/login","requestId":"88f70446-4e43-4f33-be87-d20166690390","status":200,"timestamp":"2025-07-03 22:00:58"}
+{"duration":"565ms","level":"info","message":"Request completed","method":"POST","path":"/login","requestId":"382dfe10-9e7a-4739-b760-2933762c6b92","status":200,"timestamp":"2025-07-03 22:00:58"}

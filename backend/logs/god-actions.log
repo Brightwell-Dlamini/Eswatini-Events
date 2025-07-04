@@ -1,0 +1,43 @@
+{"level":"warn","message":"⚠️ Operational Error: Invalid credentials","timestamp":"2025-07-04 17:52:33"}
+{"level":"error","message":"UNHANDLED REJECTION! Shutting down...","timestamp":"2025-07-04 17:52:51"}
+{"level":"warn","message":"⚠️ Operational Error: Invalid credentials","timestamp":"2025-07-04 17:53:07"}
+{"level":"warn","message":"⚠️ Operational Error: Invalid credentials","timestamp":"2025-07-04 17:53:21"}
+{"level":"warn","message":"⚠️ Operational Error: Invalid credentials","timestamp":"2025-07-04 17:55:04"}
+{"level":"warn","message":"⚠️ Operational Error: Invalid credentials","timestamp":"2025-07-04 18:02:21"}
+{"level":"warn","message":"⚠️ Operational Error: Invalid credentials","timestamp":"2025-07-04 18:03:56"}
+{"level":"warn","message":"⚠️ Operational Error: Invalid credentials","timestamp":"2025-07-04 18:13:51"}
+{"level":"warn","message":"⚠️ Operational Error: Invalid credentials","timestamp":"2025-07-04 18:14:07"}
+{"error":"Email already exists","level":"error","message":"Registration error","method":"POST","path":"/api/auth/register","requestId":"a3a776c6-f275-4572-beb3-8001c3381cdb","timestamp":"2025-07-04 18:14:40"}
+{"level":"warn","message":"⚠️ Operational Error: Email already exists","timestamp":"2025-07-04 18:14:40"}
+{"level":"warn","message":"⚠️ Operational Error: Invalid credentials","timestamp":"2025-07-04 18:15:18"}
+{"error":"Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","level":"error","message":"Registration error","method":"POST","path":"/api/auth/register","requestId":"b5b93099-1548-4005-8727-7b5b1b811b01","timestamp":"2025-07-04 18:17:53"}
+{"level":"warn","message":"⚠️ Operational Error: Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","timestamp":"2025-07-04 18:17:53"}
+{"error":"Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","level":"error","message":"Registration error","method":"POST","path":"/api/auth/register","requestId":"201ef47c-1358-4778-89a8-21b363a955ca","timestamp":"2025-07-04 18:18:09"}
+{"level":"warn","message":"⚠️ Operational Error: Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","timestamp":"2025-07-04 18:18:09"}
+{"level":"error","message":"UNHANDLED REJECTION! Shutting down...","timestamp":"2025-07-04 18:18:19"}
+{"error":"Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","level":"error","message":"Registration error","method":"POST","path":"/api/auth/register","requestId":"3ba824cb-e71f-4e3f-8809-db5578e7bc66","timestamp":"2025-07-04 18:18:32"}
+{"level":"warn","message":"⚠️ Operational Error: Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","timestamp":"2025-07-04 18:18:32"}
+{"error":"Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","level":"error","message":"Registration error","method":"POST","path":"/api/auth/register","requestId":"fb0757c5-2023-41c1-b6d8-f569f54770a8","timestamp":"2025-07-04 18:18:44"}
+{"level":"warn","message":"⚠️ Operational Error: Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","timestamp":"2025-07-04 18:18:44"}
+{"error":"Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","level":"error","message":"Registration error","method":"POST","path":"/api/auth/register","requestId":"77ce7a82-9079-4829-9d14-dbccedcaa04e","timestamp":"2025-07-04 18:21:48"}
+{"level":"warn","message":"⚠️ Operational Error: Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","timestamp":"2025-07-04 18:21:48"}
+{"error":"Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","level":"error","message":"Registration error","method":"POST","path":"/api/auth/register","requestId":"5b3cd14e-5638-42e0-855b-6b2fd863a0a6","timestamp":"2025-07-04 18:21:51"}
+{"level":"warn","message":"⚠️ Operational Error: Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","timestamp":"2025-07-04 18:21:51"}
+{"level":"error","message":"UNHANDLED REJECTION! Shutting down...","timestamp":"2025-07-04 18:21:59"}
+{"error":"Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","level":"error","message":"Registration error","method":"POST","path":"/api/auth/register","requestId":"75d80b6c-9ff9-4fbc-ab2a-f68c7e9934eb","timestamp":"2025-07-04 18:22:12"}
+{"level":"warn","message":"⚠️ Operational Error: Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","timestamp":"2025-07-04 18:22:12"}
+{"error":"Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","level":"error","message":"Registration error","method":"POST","path":"/api/auth/register","requestId":"7e7ac320-fa36-4ea0-8a49-b908bcc616dd","timestamp":"2025-07-04 18:22:22"}
+{"level":"warn","message":"⚠️ Operational Error: Validation error: \"role\" must be one of [attendee, organizer, staff, super_admin]","timestamp":"2025-07-04 18:22:22"}
+{"details":[{"message":"\"value\" must contain at least one of [email, role]","path":[]}],"level":"warn","message":"⚠️ Operational Error: Validation failed","solution":"Please check your input and try again","timestamp":"2025-07-04 18:31:01"}
+{"details":[{"message":"\"value\" must contain at least one of [email, role]","path":[]}],"level":"warn","message":"⚠️ Operational Error: Validation failed","solution":"Please check your input and try again","timestamp":"2025-07-04 18:31:47"}
+{"details":[{"message":"\"value\" must contain at least one of [email, role]","path":[]}],"level":"warn","message":"⚠️ Operational Error: Validation failed","solution":"Please check your input and try again","timestamp":"2025-07-04 18:36:38"}
+{"details":[{"message":"\"reason\" is required","path":["reason"]}],"level":"warn","message":"⚠️ Operational Error: Validation failed","solution":"Please check your input and try again","timestamp":"2025-07-04 18:37:15"}
+{"details":[{"message":"\"value\" must contain at least one of [email, role]","path":[]}],"level":"warn","message":"⚠️ Operational Error: Validation failed","solution":"Please check your input and try again","timestamp":"2025-07-04 19:02:54"}
+{"details":[{"message":"\"value\" must contain at least one of [email, role]","path":[]}],"level":"warn","message":"⚠️ Operational Error: Validation failed","solution":"Please check your input and try again","timestamp":"2025-07-04 19:05:25"}
+{"details":[{"message":"\"?page\" is not allowed","path":["?page"]},{"message":"\"value\" must contain at least one of [email, role]","path":[]}],"level":"warn","message":"⚠️ Operational Error: Validation failed","solution":"Please check your input and try again","timestamp":"2025-07-04 20:59:12"}
+{"details":[{"message":"\"value\" must contain at least one of [email, role]","path":[]}],"level":"warn","message":"⚠️ Operational Error: Validation failed","solution":"Please check your input and try again","timestamp":"2025-07-04 20:59:20"}
+{"level":"warn","message":"⚠️ Operational Error: Ticket not found","timestamp":"2025-07-04 21:08:07"}
+{"level":"warn","message":"⚠️ Operational Error: Ticket not found","timestamp":"2025-07-04 21:08:44"}
+{"level":"warn","message":"⚠️ Operational Error: Ticket not found","timestamp":"2025-07-04 21:10:59"}
+{"error":"Ticket already used","level":"error","message":"Validation failed","method":"POST","path":"/api/tickets/validate","requestId":"b0e32096-87aa-4800-96c5-fc61f7e1f868","timestamp":"2025-07-04 21:22:48","validator":"6867ffeccfeeca807ab13b76"}
+{"firstUsed":"2025-07-04T19:22:37.720Z","level":"warn","message":"⚠️ Operational Error: Ticket already used","solution":"Check for duplicate scanning","ticketId":"6867d8256a4fbf44ed0a6bc3","timestamp":"2025-07-04 21:22:48"}

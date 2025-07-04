@@ -1,0 +1,39 @@
+{"code":"EREFUSED","hostname":"_mongodb._tcp.eswatickets.tlche6z.mongodb.net","level":"error","message":"MongoDB connection error: querySrv EREFUSED _mongodb._tcp.eswatickets.tlche6z.mongodb.net","stack":"Error: querySrv EREFUSED _mongodb._tcp.eswatickets.tlche6z.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2025-07-03 16:19:43"}
+{"error":"Invalid email or password","level":"error","message":"Login error","method":"POST","path":"/api/auth/login","requestId":"c2d9e44f-6456-4b79-a247-c64ff0aae8e6","timestamp":"2025-07-03 16:35:55"}
+{"level":"error","message":"💥 Critical Error: Cannot refund used ticket Cannot refund used ticket","status":"error","statusCode":500,"timestamp":"2025-07-03 16:47:45"}
+{"level":"error","message":"UNHANDLED REJECTION! Shutting down...","timestamp":"2025-07-03 17:22:52"}
+{"level":"error","message":"💥 Critical Error: Ticket is not defined Ticket is not defined","status":"error","statusCode":500,"timestamp":"2025-07-03 17:23:00"}
+{"level":"error","message":"💥 Critical Error: Ticket is not defined Ticket is not defined","status":"error","statusCode":500,"timestamp":"2025-07-03 17:23:11"}
+{"level":"error","message":"💥 Critical Error: Ticket is not defined Ticket is not defined","status":"error","statusCode":500,"timestamp":"2025-07-03 17:23:59"}
+{"level":"error","message":"💥 Critical Error: Ticket is not defined Ticket is not defined","status":"error","statusCode":500,"timestamp":"2025-07-03 17:26:02"}
+{"level":"error","message":"💥 Critical Error: Ticket is not defined Ticket is not defined","status":"error","statusCode":500,"timestamp":"2025-07-03 17:48:50"}
+{"level":"error","message":"💥 Critical Error: Ticket is not defined Ticket is not defined","status":"error","statusCode":500,"timestamp":"2025-07-03 17:49:13"}
+{"level":"error","message":"💥 Critical Error: Ticket is not defined Ticket is not defined","status":"error","statusCode":500,"timestamp":"2025-07-03 17:58:41"}
+{"level":"error","message":"💥 Critical Error: Ticket is not defined Ticket is not defined","status":"error","statusCode":500,"timestamp":"2025-07-03 17:59:44"}
+{"level":"error","message":"💥 Critical Error: Ticket is not defined Ticket is not defined","status":"error","statusCode":500,"timestamp":"2025-07-03 18:00:09"}
+{"level":"error","message":"UNHANDLED REJECTION! Shutting down...","timestamp":"2025-07-03 18:01:15"}
+{"level":"error","message":"UNHANDLED REJECTION! Shutting down...","timestamp":"2025-07-03 20:47:28"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 20:56:34"}
+{"level":"error","message":"UNHANDLED REJECTION! Shutting down...","timestamp":"2025-07-03 20:56:50"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 20:59:27"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 20:59:50"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 21:05:42"}
+{"level":"error","message":"UNHANDLED REJECTION! Shutting down...","timestamp":"2025-07-03 21:06:51"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 21:12:51"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 21:13:49"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 21:14:00"}
+{"level":"error","message":"UNHANDLED REJECTION! Shutting down...","timestamp":"2025-07-03 21:14:04"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 21:14:15"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 21:14:42"}
+{"level":"error","message":"UNHANDLED REJECTION! Shutting down...","timestamp":"2025-07-03 21:14:49"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 21:15:04"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 21:15:35"}
+{"level":"error","message":"UNHANDLED REJECTION! Shutting down...","timestamp":"2025-07-03 21:15:42"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 21:15:55"}
+{"level":"error","message":"UNHANDLED REJECTION! Shutting down...","timestamp":"2025-07-03 21:16:23"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 21:18:56"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 21:23:58"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 21:25:49"}
+{"level":"error","message":"UNHANDLED REJECTION! Shutting down...","timestamp":"2025-07-03 21:28:40"}
+{"level":"error","message":"💥 Critical Error: Cannot read properties of undefined (reading 'refreshToken') Cannot read properties of undefined (reading 'refreshToken')","status":"error","statusCode":500,"timestamp":"2025-07-03 21:31:43"}
+{"level":"error","message":"UNHANDLED REJECTION! Shutting down...","timestamp":"2025-07-03 22:00:11"}
