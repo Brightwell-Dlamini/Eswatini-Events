@@ -41,3 +41,9 @@
 {"level":"warn","message":"⚠️ Operational Error: Ticket not found","timestamp":"2025-07-04 21:10:59"}
 {"error":"Ticket already used","level":"error","message":"Validation failed","method":"POST","path":"/api/tickets/validate","requestId":"b0e32096-87aa-4800-96c5-fc61f7e1f868","timestamp":"2025-07-04 21:22:48","validator":"6867ffeccfeeca807ab13b76"}
 {"firstUsed":"2025-07-04T19:22:37.720Z","level":"warn","message":"⚠️ Operational Error: Ticket already used","solution":"Check for duplicate scanning","ticketId":"6867d8256a4fbf44ed0a6bc3","timestamp":"2025-07-04 21:22:48"}
+{"level":"warn","message":"⚠️ Operational Error: Ticket already refunded","timestamp":"2025-07-04 21:53:24"}
+{"details":[{"message":"\"newRole\" is required","path":["newRole"]}],"level":"warn","message":"⚠️ Operational Error: Validation failed","solution":"Please check your input and try again","timestamp":"2025-07-04 21:58:13"}
+{"details":[{"message":"\"newRole\" is required","path":["newRole"]}],"level":"warn","message":"⚠️ Operational Error: Validation failed","solution":"Please check your input and try again","timestamp":"2025-07-04 21:58:30"}
+{"details":[{"message":"\"newRole\" is required","path":["newRole"]}],"level":"warn","message":"⚠️ Operational Error: Validation failed","solution":"Please check your input and try again","timestamp":"2025-07-04 21:59:01"}
+{"details":[{"message":"\"newRole\" is required","path":["newRole"]}],"level":"warn","message":"⚠️ Operational Error: Validation failed","solution":"Please check your input and try again","timestamp":"2025-07-04 21:59:48"}
+{"details":[{"message":"\"newRole\" is required","path":["newRole"]}],"level":"warn","message":"⚠️ Operational Error: Validation failed","solution":"Please check your input and try again","timestamp":"2025-07-04 22:00:28"}
